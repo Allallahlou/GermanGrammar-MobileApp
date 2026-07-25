@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deutsch Grammatik - تعلم القواعد الألمانية</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <!-- Splash Screen -->
+    <div id="splash-screen" class="screen active">
+        <div class="splash-content">
+            <div class="splash-logo">
+                <div class="logo-circle">DE</div>
+            </div>
+            <h1 class="splash-title">Deutsch Grammatik</h1>
+            <p class="splash-subtitle">تعلم القواعد الألمانية بسهولة</p>
+            <div class="splash-loader">
+                <div class="loader"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Home Screen -->
+    <div id="home-screen" class="screen">
+        <header class="app-header">
+            <div class="header-content">
+                <h1><i class="fas fa-book-open"></i> Deutsch Grammatik</h1>
+            </div>
+        </header>
+
+        <main class="main-content">
+            <div class="hero-card">
+                <div class="hero-icon">🇩🇪</div>
+                <h2>مرحباً!</h2>
+                <p>اختبر معرفتك بالقواعد الألمانية</p>
+            </div>
+
+            <div class="stats-card">
+                <div class="stat-icon">
+                    <i class="fas fa-tasks"></i>
+                </div>
+                <div class="stat-info">
+                    <h3>عدد التمارين المتاحة</h3>
+                    <p id="exercise-count">0 تمرين</p>
+                </div>
+            </div>
+
+            <button class="btn btn-primary btn-large" onclick="app.showExerciseList()">
+                <i class="fas fa-play"></i>
+                ابدأ التمارين
+            </button>
+
+            <div class="progress-section" id="progress-section" style="display: none;">
+                <h3><i class="fas fa-chart-line"></i> تقدمك</h3>
+                <div class="progress-stats">
+                    <div class="progress-item">
+                        <span class="progress-label">التمارين المكتملة</span>
+                        <span class="progress-value" id="completed-count">0</span>
+                    </div>
+                    <div class="progress-item">
+                        <span class="progress-label">الإجابات الصحيحة</span>
+                        <span class="progress-value correct" id="total-correct">0</span>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <footer class="app-footer">
+            <p>Made with ❤️ for German learners</p>
+        </footer>
+    </div>
+
+    <!-- Exercise List Screen -->
+    <div id="list-screen" class="screen">
+        <header class="app-header secondary">
+            <button class="btn-back" onclick="app.showHome()">
+                <i class="fas fa-arrow-right"></i>
+            </button>
+            <h1>التمارين</h1>
+        </header>
+
+        <main class="main-content">
+            <div id="exercise-list" class="exercise-list"></div>
+        </main>
+    </div>
+
+    <!-- Exercise Detail Screen -->
+    <div id="detail-screen" class="screen">
+        <header class="app-header secondary">
+            <button class="btn-back" onclick="app.showExerciseList()">
+                <i class="fas fa-arrow-right"></i>
+            </button>
+            <h1 id="detail-title">التمرين</h1>
+        </header>
+
+        <main class="main-content">
+            <div class="detail-card">
+                <h2 id="detail-chapter" class="detail-chapter"></h2>
+
+                <div class="rule-box">
+                    <i class="fas fa-lightbulb"></i>
+                    <p id="detail-rule"></p>
+                </div>
+
+                <div class="detail-meta">
+                    <span><i class="fas fa-question-circle"></i> عدد الأسئلة: <strong id="detail-count">0</strong></span>
+                </div>
+
+                <button class="btn btn-primary btn-large" onclick="app.startExercise()">
+                    <i class="fas fa-play"></i>
+                    ابدأ التمرين
+                </button>
+            </div>
+        </main>
+    </div>
+
+    <!-- Fill In Blank Screen (Quiz) -->
+    <div id="quiz-screen" class="screen">
+        <header class="app-header secondary">
+            <button class="btn-back" onclick="app.confirmQuit()">
+                <i class="fas fa-arrow-right"></i>
+            </button>
+            <h1 id="quiz-title">التمرين</h1>
+            <div class="quiz-progress-header">
+                <div class="progress-bar">
+                    <div class="progress-fill" id="progress-fill"></div>
+                </div>
+                <div class="quiz-score">
+                    <span class="score-correct">✅ <span id="score-correct">0</span></span>
+                    <span class="score-wrong">❌ <span id="score-wrong">0</span></span>
+                </div>
+            </div>
+        </header>
+
+        <main class="main-content quiz-content">
+            <div class="rule-box compact">
+                <p id="quiz-rule"></p>
+            </div>
+
+            <div class="question-counter">
+                السؤال <span id="current-q">1</span> / <span id="total-q">10</span>
+            </div>
+
+            <div class="question-card">
+                <p id="question-text" class="question-text"></p>
+            </div>
+
+            <div class="answer-section">
+                <textarea 
+                    id="answer-input" 
+                    class="answer-input" 
+                    placeholder="اكتب الجملة كاملة هنا..."
+                    rows="3"
+                ></textarea>
+
+                <button id="check-btn" class="btn btn-primary" onclick="app.checkAnswer()">
+                    <i class="fas fa-check-circle"></i>
+                    تحقق
+                </button>
+            </div>
+
+            <div id="feedback-box" class="feedback-box" style="display: none;">
+                <div class="feedback-content">
+                    <i id="feedback-icon" class="fas"></i>
+                    <span id="feedback-text"></span>
+                </div>
+            </div>
+
+            <button id="show-answer-btn" class="btn btn-outline" onclick="app.showCorrectAnswer()" style="display: none;">
+                <i class="fas fa-eye"></i>
+                اظهر الحل
+            </button>
+
+            <div id="correct-answer-box" class="correct-answer-box" style="display: none;">
+                <h4><i class="fas fa-key"></i> الحل الصحيح:</h4>
+                <p id="correct-answer-text"></p>
+            </div>
+
+            <button id="next-btn" class="btn btn-indigo" onclick="app.nextQuestion()" style="display: none;">
+                <span id="next-btn-text">السؤال التالي →</span>
+            </button>
+        </main>
+    </div>
+
+    <!-- Result Modal -->
+    <div id="result-modal" class="modal" style="display: none;">
+        <div class="modal-content">
+            <div class="result-emoji">🎉</div>
+            <h2>مبروك! أكملت التمارين!</h2>
+
+            <div class="result-circle">
+                <svg viewBox="0 0 120 120">
+                    <circle class="circle-bg" cx="60" cy="60" r="54"/>
+                    <circle id="result-circle" class="circle-progress" cx="60" cy="60" r="54"/>
+                </svg>
+                <div class="result-percentage">
+                    <span id="result-percent">0%</span>
+                </div>
+            </div>
+
+            <div class="result-stats">
+                <div class="stat-box correct">
+                    <span class="stat-number" id="result-correct">0</span>
+                    <span class="stat-label">صحيحة</span>
+                </div>
+                <div class="stat-box wrong">
+                    <span class="stat-number" id="result-wrong">0</span>
+                    <span class="stat-label">خاطئة</span>
+                </div>
+                <div class="stat-box total">
+                    <span class="stat-number" id="result-total">0</span>
+                    <span class="stat-label">المجموع</span>
+                </div>
+            </div>
+
+            <p id="result-message" class="result-message"></p>
+
+            <button class="btn btn-primary" onclick="app.closeResult()">
+                <i class="fas fa-list"></i>
+                رجوع للقائمة
+            </button>
+        </div>
+    </div>
+
+    <!-- Confirm Quit Modal -->
+    <div id="quit-modal" class="modal" style="display: none;">
+        <div class="modal-content small">
+            <h3><i class="fas fa-exclamation-triangle"></i> هل تريد الخروج؟</h3>
+            <p>سيتم فقدان تقدمك في هذا التمرين</p>
+            <div class="modal-actions">
+                <button class="btn btn-outline" onclick="app.hideQuitModal()">إكمال</button>
+                <button class="btn btn-danger" onclick="app.quitExercise()">خروج</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,1438 @@
+[
+  {
+    "title": "Wechselpräpositionen mit Dativ",
+    "chapter": "Kapitel 1 - Übung 1",
+    "rule": "Wo? (stehen, hängen, liegen, sein) + Dativ",
+    "items": [
+      {
+        "id": 1,
+        "question": "der Mann / das Zimmer / vor der Frau",
+        "answer": "Der Mann steht im Zimmer vor der Frau."
+      },
+      {
+        "id": 2,
+        "question": "der Kuchen / der Boden / unter der Tafel / neben der Brille",
+        "answer": "Der Kuchen steht auf dem Boden unter der Tafel neben der Brille."
+      },
+      {
+        "id": 3,
+        "question": "der Regenschirm / die Tafel",
+        "answer": "Der Regenschirm hängt an der Tafel."
+      },
+      {
+        "id": 4,
+        "question": "der Bleistift / die Luft / über dem Mann",
+        "answer": "Der Bleistift ist in der Luft über dem Mann."
+      },
+      {
+        "id": 5,
+        "question": "der Ball / der Kopf der Frau",
+        "answer": "Der Ball liegt auf dem Kopf der Frau."
+      },
+      {
+        "id": 6,
+        "question": "der Kalender / der Tisch",
+        "answer": "Der Kalender liegt unter dem Tisch."
+      },
+      {
+        "id": 7,
+        "question": "der Apfel / der Tisch / neben dem Kuli",
+        "answer": "Der Apfel liegt auf dem Tisch neben dem Kuli."
+      },
+      {
+        "id": 8,
+        "question": "die Banane / der Stuhl",
+        "answer": "Die Banane liegt auf dem Stuhl."
+      },
+      {
+        "id": 9,
+        "question": "das Poster / die Wand / neben der Uhr",
+        "answer": "Das Poster hängt an der Wand neben der Uhr."
+      },
+      {
+        "id": 10,
+        "question": "die Lampe / der Tisch",
+        "answer": "Die Lampe hängt über dem Tisch."
+      },
+      {
+        "id": 11,
+        "question": "die Katze / das Sofa",
+        "answer": "Die Katze liegt auf dem Sofa."
+      },
+      {
+        "id": 12,
+        "question": "der Schlüssel / die Tasche",
+        "answer": "Der Schlüssel liegt in der Tasche."
+      }
+    ]
+  },
+  {
+    "title": "Wenn-Sätze mit Akkusativ",
+    "chapter": "Kapitel 1 - Übung 2",
+    "rule": "Wohin? (stellen, hängen, legen, setzen) + Akkusativ",
+    "items": [
+      {
+        "id": 13,
+        "question": "Wenn ich eine Pizza essen will, (ich / in eine Pizzeria / gehen)",
+        "answer": "Wenn ich eine Pizza essen will, gehe ich in eine Pizzeria."
+      },
+      {
+        "id": 14,
+        "question": "Wenn ich ein Bild kaufe, (ich / es / an die Wand / hängen)",
+        "answer": "Wenn ich ein Bild kaufe, hänge ich es an die Wand."
+      },
+      {
+        "id": 15,
+        "question": "Wenn ich das Kursbuch mitnehmen muss, (ich / es / in die Tasche / stecken)",
+        "answer": "Wenn ich das Kursbuch mitnehmen muss, stecke ich es in die Tasche."
+      },
+      {
+        "id": 16,
+        "question": "Wenn ich parken muss, (ich / in die Garage / fahren)",
+        "answer": "Wenn ich parken muss, fahre ich in die Garage."
+      },
+      {
+        "id": 17,
+        "question": "Wenn das Wetter schön ist, (ich / mich / in den Garten / setzen)",
+        "answer": "Wenn das Wetter schön ist, setze ich mich in den Garten."
+      },
+      {
+        "id": 18,
+        "question": "Wenn der Hund müde ist, (er / sich / unter den Baum / legen)",
+        "answer": "Wenn der Hund müde ist, legt er sich unter den Baum."
+      },
+      {
+        "id": 19,
+        "question": "Wenn meine Freundin müde ist, (sie / sich / ins Bett / legen)",
+        "answer": "Wenn meine Freundin müde ist, legt sie sich ins Bett."
+      },
+      {
+        "id": 20,
+        "question": "Wenn die Blume mehr Licht braucht, (ich / sie / ans Fenster / stellen)",
+        "answer": "Wenn die Blume mehr Licht braucht, stelle ich sie ans Fenster."
+      },
+      {
+        "id": 21,
+        "question": "Wenn es regnet, (ich / das Auto / in die Garage / stellen)",
+        "answer": "Wenn es regnet, stelle ich das Auto in die Garage."
+      },
+      {
+        "id": 22,
+        "question": "Wenn ich arbeiten möchte, (ich / mich / an den Schreibtisch / setzen)",
+        "answer": "Wenn ich arbeiten möchte, setze ich mich an den Schreibtisch."
+      }
+    ]
+  },
+  {
+    "title": "Infinitiv mit zu",
+    "chapter": "Kapitel 1 - Übung 3",
+    "rule": "Infinitivsätze mit \"zu\"",
+    "items": [
+      {
+        "id": 23,
+        "question": "Es ist verboten / auf dem Balkon grillen",
+        "answer": "Es ist verboten, auf dem Balkon zu grillen."
+      },
+      {
+        "id": 24,
+        "question": "Es ist nicht erlaubt / die Fahrräder im Treppenhaus abstellen",
+        "answer": "Es ist nicht erlaubt, die Fahrräder im Treppenhaus abzustellen."
+      },
+      {
+        "id": 25,
+        "question": "Es macht Spaß / mit den Nachbarn Kaffee trinken",
+        "answer": "Es macht Spaß, mit den Nachbarn Kaffee zu trinken."
+      },
+      {
+        "id": 26,
+        "question": "Bitte achten Sie darauf / die Tür nach 22 Uhr abschließen",
+        "answer": "Bitte achten Sie darauf, die Tür nach 22 Uhr abzuschließen."
+      },
+      {
+        "id": 27,
+        "question": "Es ist notwendig / den Müll trennen",
+        "answer": "Es ist notwendig, den Müll zu trennen."
+      },
+      {
+        "id": 28,
+        "question": "Ich muss jetzt anfangen / den Schmutz beseitigen",
+        "answer": "Ich muss jetzt anfangen, den Schmutz zu beseitigen."
+      },
+      {
+        "id": 29,
+        "question": "Ich habe keine Zeit / die Nachbarn informieren",
+        "answer": "Ich habe keine Zeit, die Nachbarn zu informieren."
+      },
+      {
+        "id": 30,
+        "question": "Es ist nicht einfach / bei Problemen freundlich bleiben",
+        "answer": "Es ist nicht einfach, bei Problemen freundlich zu bleiben."
+      },
+      {
+        "id": 31,
+        "question": "Es ist wichtig / pünktlich zum Termin kommen",
+        "answer": "Es ist wichtig, pünktlich zum Termin zu kommen."
+      },
+      {
+        "id": 32,
+        "question": "Ich vergesse oft / den Schlüssel mitnehmen",
+        "answer": "Ich vergesse oft, den Schlüssel mitzunehmen."
+      },
+      {
+        "id": 33,
+        "question": "Hast du Lust / heute Abend ins Kino gehen?",
+        "answer": "Hast du Lust, heute Abend ins Kino zu gehen?"
+      },
+      {
+        "id": 34,
+        "question": "Es ist gesund / viel Wasser trinken",
+        "answer": "Es ist gesund, viel Wasser zu trinken."
+      }
+    ]
+  },
+  {
+    "title": "sowohl ... als auch",
+    "chapter": "Kapitel 1 - Übung 4",
+    "rule": "Doppelkonjunktion (sowohl ... als auch)",
+    "items": [
+      {
+        "id": 35,
+        "question": "Frau Weber hat Katzen + Hunde gerne.",
+        "answer": "Frau Weber hat sowohl Katzen als auch Hunde gerne."
+      },
+      {
+        "id": 36,
+        "question": "Frau Haffner + Herr Moreno haben einen Sohn.",
+        "answer": "Sowohl Frau Haffner als auch Herr Moreno haben einen Sohn."
+      },
+      {
+        "id": 37,
+        "question": "Frau Weber + Frau Kandels wohnen im Erdgeschoss.",
+        "answer": "Sowohl Frau Weber als auch Frau Kandels wohnen im Erdgeschoss."
+      },
+      {
+        "id": 38,
+        "question": "Der Postbote hat einen Brief für Frau Moreno + für Frau Kandels.",
+        "answer": "Der Postbote hat sowohl einen Brief für Frau Moreno als auch für Frau Kandels."
+      },
+      {
+        "id": 39,
+        "question": "Frau Haffner arbeitet Zuhause + im Büro.",
+        "answer": "Frau Haffner arbeitet sowohl Zuhause als auch im Büro."
+      },
+      {
+        "id": 40,
+        "question": "Carla lernt Englisch + Deutsch.",
+        "answer": "Carla lernt sowohl Englisch als auch Deutsch."
+      },
+      {
+        "id": 41,
+        "question": "Er isst gerne Pizza + Pasta.",
+        "answer": "Er isst sowohl Pizza als auch Pasta gerne."
+      },
+      {
+        "id": 42,
+        "question": "Das Hotel bietet Pool + Sauna.",
+        "answer": "Das Hotel bietet sowohl einen Pool als auch eine Sauna."
+      },
+      {
+        "id": 43,
+        "question": "Wir besuchen Berlin + München.",
+        "answer": "Wir besuchen sowohl Berlin als auch München."
+      },
+      {
+        "id": 44,
+        "question": "Sie spricht Spanisch + Französisch.",
+        "answer": "Sie spricht sowohl Spanisch als auch Französisch."
+      }
+    ]
+  },
+  {
+    "title": "Korrektur mit \"sondern\"",
+    "chapter": "Kapitel 2 - Übung 1",
+    "rule": "nicht ..., sondern ...",
+    "items": [
+      {
+        "id": 45,
+        "question": "Herr Mayer ist nicht um 14 Uhr gekommen. Er ist um 15 Uhr gekommen.",
+        "answer": "Herr Mayer ist nicht um 14 Uhr gekommen, sondern um 15 Uhr."
+      },
+      {
+        "id": 46,
+        "question": "Die Firma hat keine Mandarinen geliefert. Sie hat Orangen geliefert.",
+        "answer": "Die Firma hat keine Mandarinen geliefert, sondern Orangen."
+      },
+      {
+        "id": 47,
+        "question": "Herr Mayer geht nicht in den Supermarkt. Er geht auf den Markt.",
+        "answer": "Herr Mayer geht nicht in den Supermarkt, sondern auf den Markt."
+      },
+      {
+        "id": 48,
+        "question": "In dem Kuchen ist leider kein Zucker. In dem Kuchen ist Salz.",
+        "answer": "In dem Kuchen ist leider kein Zucker, sondern Salz."
+      },
+      {
+        "id": 49,
+        "question": "Frau Müller ruft Herrn Müller nicht an. Sie schreibt ihm eine E-Mail.",
+        "answer": "Frau Müller ruft Herrn Müller nicht an, sondern schreibt ihm eine E-Mail."
+      },
+      {
+        "id": 50,
+        "question": "Er lernt nicht Englisch. Er lernt Deutsch.",
+        "answer": "Er lernt nicht Englisch, sondern Deutsch."
+      },
+      {
+        "id": 51,
+        "question": "Wir fahren nicht nach Spanien. Wir fahren nach Italien.",
+        "answer": "Wir fahren nicht nach Spanien, sondern nach Italien."
+      },
+      {
+        "id": 52,
+        "question": "Das ist kein Tee. Das ist Kaffee.",
+        "answer": "Das ist kein Tee, sondern Kaffee."
+      },
+      {
+        "id": 53,
+        "question": "Sie wohnt nicht in Berlin. Sie wohnt in Hamburg.",
+        "answer": "Sie wohnt nicht in Berlin, sondern in Hamburg."
+      },
+      {
+        "id": 54,
+        "question": "Er hat kein Auto gekauft. Er hat ein Fahrrad gekauft.",
+        "answer": "Er hat kein Auto gekauft, sondern ein Fahrrad."
+      }
+    ]
+  },
+  {
+    "title": "Genitiv-Formen",
+    "chapter": "Kapitel 3 - Übung 1",
+    "rule": "Genitiv: des + (e)s / der",
+    "items": [
+      {
+        "id": 55,
+        "question": "die Kosten vom Rechtsstreit",
+        "answer": "die Kosten des Rechtsstreits"
+      },
+      {
+        "id": 56,
+        "question": "die Kosten vom Gerichtsprozess",
+        "answer": "die Kosten des Gerichtsprozesses"
+      },
+      {
+        "id": 57,
+        "question": "die Fläche von der Wohnung",
+        "answer": "die Fläche der Wohnung"
+      },
+      {
+        "id": 58,
+        "question": "die Kontodaten von der Kundin",
+        "answer": "die Kontodaten der Kundin"
+      },
+      {
+        "id": 59,
+        "question": "der Verlust von der EC-Karte",
+        "answer": "der Verlust der EC-Karte"
+      },
+      {
+        "id": 60,
+        "question": "die Eröffnung vom Konto",
+        "answer": "die Eröffnung des Kontos"
+      },
+      {
+        "id": 61,
+        "question": "das Ende vom Monat",
+        "answer": "das Ende des Monats"
+      },
+      {
+        "id": 62,
+        "question": "das Dach von dem Haus",
+        "answer": "das Dach des Hauses"
+      },
+      {
+        "id": 63,
+        "question": "die Tür von dem Zimmer",
+        "answer": "die Tür des Zimmers"
+      },
+      {
+        "id": 64,
+        "question": "der Preis von dem Buch",
+        "answer": "der Preis des Buches"
+      },
+      {
+        "id": 65,
+        "question": "die Farbe von dem Auto",
+        "answer": "die Farbe des Autos"
+      },
+      {
+        "id": 66,
+        "question": "die Meinung von der Lehrerin",
+        "answer": "die Meinung der Lehrerin"
+      }
+    ]
+  },
+  {
+    "title": "Finalsätze (damit / um ... zu)",
+    "chapter": "Kapitel 6 - Übung 1",
+    "rule": "Wozu? -> damit (verschiedene Subjekte) / um...zu (gleiches Subjekt)",
+    "items": [
+      {
+        "id": 67,
+        "question": "Der Krankenwagen bringt Anton ins Krankenhaus. Er wird dort untersucht.",
+        "answer": "Damit er dort untersucht wird."
+      },
+      {
+        "id": 68,
+        "question": "Tanja fährt zurück ins Büro. Sie sagt ihrem Chef, dass Anton einen Unfall hatte.",
+        "answer": "Um ihrem Chef zu sagen, dass Anton einen Unfall hatte."
+      },
+      {
+        "id": 69,
+        "question": "Anton ruft seine Frau an. Er informiert sie, dass er im Krankenhaus ist.",
+        "answer": "Um sie zu informieren, dass er im Krankenhaus ist."
+      },
+      {
+        "id": 70,
+        "question": "Anton ruft seine Frau an. Sie kommt sofort.",
+        "answer": "Damit sie sofort kommt."
+      },
+      {
+        "id": 71,
+        "question": "Er spart Geld. Er kauft ein neues Auto.",
+        "answer": "Um ein neues Auto zu kaufen."
+      },
+      {
+        "id": 72,
+        "question": "Die Mutter gibt dem Kind Geld. Es kauft ein Eis.",
+        "answer": "Damit es ein Eis kauft."
+      },
+      {
+        "id": 73,
+        "question": "Ich lerne Deutsch. Ich finde einen Job in Deutschland.",
+        "answer": "Um einen Job in Deutschland zu finden."
+      },
+      {
+        "id": 74,
+        "question": "Er erklärt die Regel noch einmal. Die Schüler verstehen sie.",
+        "answer": "Damit die Schüler sie verstehen."
+      },
+      {
+        "id": 75,
+        "question": "Sie zieht eine Jacke an. Sie friert nicht.",
+        "answer": "Um nicht zu frieren."
+      },
+      {
+        "id": 76,
+        "question": "Der Vater macht das Licht an. Die Kinder können lesen.",
+        "answer": "Damit die Kinder lesen können."
+      }
+    ]
+  },
+  {
+    "title": "Passiv Präsens",
+    "chapter": "Kapitel 7 - Übung 1",
+    "rule": "werden + Partizip II",
+    "items": [
+      {
+        "id": 77,
+        "question": "den Hund füttern",
+        "answer": "Der Hund wird gefüttert."
+      },
+      {
+        "id": 78,
+        "question": "die Wäsche waschen",
+        "answer": "Die Wäsche wird gewaschen."
+      },
+      {
+        "id": 79,
+        "question": "den Boden wischen",
+        "answer": "Der Boden wird gewischt."
+      },
+      {
+        "id": 80,
+        "question": "die Pflanzen gießen",
+        "answer": "Die Pflanzen werden gegossen."
+      },
+      {
+        "id": 81,
+        "question": "das Essen kochen",
+        "answer": "Das Essen wird gekocht."
+      },
+      {
+        "id": 82,
+        "question": "die Betten machen",
+        "answer": "Die Betten werden gemacht."
+      },
+      {
+        "id": 83,
+        "question": "das Auto reparieren",
+        "answer": "Das Auto wird repariert."
+      },
+      {
+        "id": 84,
+        "question": "die E-Mails schreiben",
+        "answer": "Die E-Mails werden geschrieben."
+      },
+      {
+        "id": 85,
+        "question": "das Zimmer aufräumen",
+        "answer": "Das Zimmer wird aufgeräumt."
+      },
+      {
+        "id": 86,
+        "question": "die Hausaufgaben korrigieren",
+        "answer": "Die Hausaufgaben werden korrigiert."
+      },
+      {
+        "id": 87,
+        "question": "die Mülltonnen leeren",
+        "answer": "Die Mülltonnen werden geleert."
+      },
+      {
+        "id": 88,
+        "question": "das Fenster putzen",
+        "answer": "Das Fenster wird geputzt."
+      },
+      {
+        "id": 89,
+        "question": "die Rechnungen bezahlen",
+        "answer": "Die Rechnungen werden bezahlt."
+      }
+    ]
+  },
+  {
+    "title": "Relativpronomen im Akkusativ (Muster)",
+    "chapter": "Kapitel 2 - Übung 3",
+    "rule": "Relativpronomen im Akkusativ: der/die/das/die",
+    "items": [
+      {
+        "id": 90,
+        "question": "das Buch / lesen (heute)",
+        "answer": "Das ist das Buch, das ich heute lese."
+      },
+      {
+        "id": 91,
+        "question": "das Buch / lesen (morgen)",
+        "answer": "Das ist das Buch, das ich morgen lesen muss."
+      },
+      {
+        "id": 92,
+        "question": "das Buch / lesen (gestern)",
+        "answer": "Das ist das Buch, das ich gestern gelesen habe."
+      },
+      {
+        "id": 93,
+        "question": "das Zimmer / aufräumen (heute)",
+        "answer": "Das ist das Zimmer, das ich heute aufräume."
+      },
+      {
+        "id": 94,
+        "question": "das Zimmer / aufräumen (morgen)",
+        "answer": "Das ist das Zimmer, das ich morgen aufräumen muss."
+      },
+      {
+        "id": 95,
+        "question": "das Zimmer / aufräumen (gestern)",
+        "answer": "Das ist das Zimmer, das ich gestern aufgeräumt habe."
+      },
+      {
+        "id": 96,
+        "question": "das Kind / treffen (heute)",
+        "answer": "Das ist das Kind, das ich heute treffe."
+      },
+      {
+        "id": 97,
+        "question": "das Kind / treffen (morgen)",
+        "answer": "Das ist das Kind, das ich morgen treffen muss."
+      },
+      {
+        "id": 98,
+        "question": "das Kind / treffen (gestern)",
+        "answer": "Das ist das Kind, das ich gestern getroffen habe."
+      },
+      {
+        "id": 99,
+        "question": "der Rasen / mähen (heute)",
+        "answer": "Das ist der Rasen, den ich heute mähe."
+      },
+      {
+        "id": 100,
+        "question": "der Rasen / mähen (morgen)",
+        "answer": "Das ist der Rasen, den ich morgen mähen muss."
+      },
+      {
+        "id": 101,
+        "question": "der Rasen / mähen (gestern)",
+        "answer": "Das ist der Rasen, den ich gestern gemäht habe."
+      }
+    ]
+  },
+  {
+    "title": "Relativpronomen im Akkusativ (Verbinden)",
+    "chapter": "Kapitel 2 - Übung 4",
+    "rule": "Verbinde die Sätze mit dem Relativpronomen im Akkusativ",
+    "items": [
+      {
+        "id": 102,
+        "question": "Frau Kandels unterrichtet die Kinder. Ich höre die Kinder abends.",
+        "answer": "Frau Kandels unterrichtet die Kinder, die ich abends höre."
+      },
+      {
+        "id": 103,
+        "question": "Der Postbote bringt das Paket. Ich erwarte das Paket.",
+        "answer": "Der Postbote bringt das Paket, das ich erwarte."
+      },
+      {
+        "id": 104,
+        "question": "Herr Moreno braucht gleich den Karton. Carla öffnet gerade den Karton.",
+        "answer": "Herr Moreno braucht gleich den Karton, den Carla gerade öffnet."
+      },
+      {
+        "id": 105,
+        "question": "Der Hausmeister putzt die Treppe. Der Hund hat die Treppe schmutzig gemacht.",
+        "answer": "Der Hausmeister putzt die Treppe, die der Hund schmutzig gemacht hat."
+      },
+      {
+        "id": 106,
+        "question": "Herr Eckhardt geht mit dem Hund spazieren. Er liebt den Hund sehr.",
+        "answer": "Herr Eckhardt geht mit dem Hund spazieren, den er sehr liebt."
+      },
+      {
+        "id": 107,
+        "question": "Die Kinder spielen neben dem Müll. Ich bringe gleich den Müll weg.",
+        "answer": "Die Kinder spielen neben dem Müll, den ich gleich wegbringe."
+      },
+      {
+        "id": 108,
+        "question": "Ich muss noch den Kuchen kaufen. Ich bringe den Kuchen mit.",
+        "answer": "Ich muss noch den Kuchen kaufen, den ich mitbringe."
+      },
+      {
+        "id": 109,
+        "question": "Das sind die Nachbarn. Herr Moreno lädt die Nachbarn ein.",
+        "answer": "Das sind die Nachbarn, die Herr Moreno einlädt."
+      },
+      {
+        "id": 110,
+        "question": "Das ist das Paket. Du schickst das Paket bitte zurück.",
+        "answer": "Das ist das Paket, das du bitte zurückschickst."
+      },
+      {
+        "id": 111,
+        "question": "Frau Blum wickelt das Baby. Ihr Mann hat das Baby gerade gewaschen.",
+        "answer": "Frau Blum wickelt das Baby, das ihr Mann gerade gewaschen hat."
+      }
+    ]
+  },
+  {
+    "title": "Genitiv (Ergänzen)",
+    "chapter": "Kapitel 3 - Übung 2",
+    "rule": "Genitiv: des/der + Nomen (Ergänzen Sie die Nomen im Genitiv)",
+    "items": [
+      {
+        "id": 112,
+        "question": "Herr Meyer, der Spiegel [Ihr Auto] ist leider nach dem Unfall kaputt.",
+        "answer": "Herr Meyer, der Spiegel Ihres Autos ist leider nach dem Unfall kaputt."
+      },
+      {
+        "id": 113,
+        "question": "Der Chef [das Krankenhaus] ist jünger als mein Vater.",
+        "answer": "Der Chef des Krankenhauses ist jünger als mein Vater."
+      },
+      {
+        "id": 114,
+        "question": "Die Einladung [eine Freundin] zum Essen hat mich sehr gefreut.",
+        "answer": "Die Einladung einer Freundin zum Essen hat mich sehr gefreut."
+      },
+      {
+        "id": 115,
+        "question": "Das gute Zeugnis [mein Sohn] hat uns ganz glücklich gemacht.",
+        "answer": "Das gute Zeugnis meines Sohnes hat uns ganz glücklich gemacht."
+      },
+      {
+        "id": 116,
+        "question": "Die dienstliche Telefonnummer [unser Geschäftsführer] ist allen bekannt.",
+        "answer": "Die dienstliche Telefonnummer unseres Geschäftsführers ist allen Mitarbeitern bekannt."
+      },
+      {
+        "id": 117,
+        "question": "Die Öffnungszeiten [der Samstagsmarkt] stehen auf dem Plakat.",
+        "answer": "Die Öffnungszeiten des Samstagsmarktes stehen auf dem Plakat."
+      },
+      {
+        "id": 118,
+        "question": "Das Abstellen [die Fahrräder] im Treppenhaus ist verboten.",
+        "answer": "Das Abstellen der Fahrräder im Treppenhaus ist verboten."
+      },
+      {
+        "id": 119,
+        "question": "Alle Mitbewohner haben das Schreiben [die Hausverwaltung] gelesen.",
+        "answer": "Alle Mitbewohner haben das Schreiben der Hausverwaltung genau gelesen."
+      },
+      {
+        "id": 120,
+        "question": "Die Reinigung [das Treppenhaus] und [die Flure] übernimmt der neue Hausmeister.",
+        "answer": "Die Reinigung des Treppenhauses und der Flure übernimmt ab sofort unser neuer Hausmeister."
+      },
+      {
+        "id": 121,
+        "question": "Das Abschließen [die Haustür] und [der Kellereingang] nach 22 Uhr ist Vorschrift.",
+        "answer": "Das Abschließen der Haustür und des Kellereingangs nach 22.00 Uhr ist Vorschrift."
+      }
+    ]
+  },
+  {
+    "title": "Obwohl oder Weil",
+    "chapter": "Kapitel 3 - Übung 3",
+    "rule": "obwohl = Gegensatz, weil = Grund",
+    "items": [
+      {
+        "id": 122,
+        "question": "Gestern hat Martin bis Mitternacht Kisten gepackt. Er zieht morgen um. (weil)",
+        "answer": "Gestern hat Martin bis Mitternacht Kisten gepackt, weil er morgen umzieht."
+      },
+      {
+        "id": 123,
+        "question": "Martin ist von Berlin nach Innsbruck gezogen. Er hat in Österreich keine Arbeit gesucht. (obwohl)",
+        "answer": "Martin ist von Berlin nach Innsbruck gezogen, obwohl er in Österreich keine Arbeit gesucht hat."
+      },
+      {
+        "id": 124,
+        "question": "Martin lebt jetzt gerne in Innsbruck. Er vermisst seine Freunde aus Berlin. (obwohl)",
+        "answer": "Martin lebt jetzt gerne in Innsbruck, obwohl er seine Freunde aus Berlin vermisst."
+      },
+      {
+        "id": 125,
+        "question": "Martin muss immer sehr früh aufstehen. Seine Arbeit fängt schon um 6:00 Uhr an. (weil)",
+        "answer": "Martin muss immer sehr früh aufstehen, weil seine Arbeit schon um 6:00 Uhr anfängt."
+      },
+      {
+        "id": 126,
+        "question": "Martin ist immer pünktlich in der Arbeit. Der Zug hat oft Verspätung. (obwohl)",
+        "answer": "Martin ist immer pünktlich in der Arbeit, obwohl der Zug oft Verspätung hat."
+      },
+      {
+        "id": 127,
+        "question": "Die Freunde aus Berlin besuchen Martin sehr oft. Die Fahrt ist sehr lang. (obwohl)",
+        "answer": "Die Freunde aus Berlin besuchen Martin sehr oft, obwohl die Fahrt sehr lang ist."
+      },
+      {
+        "id": 128,
+        "question": "Martin telefoniert jeden Sonntag mit seiner Mutter. Sie will hören, wie es ihm geht. (weil)",
+        "answer": "Martin telefoniert jeden Sonntag mit seiner Mutter, weil sie hören will, wie es ihm geht."
+      },
+      {
+        "id": 129,
+        "question": "Ihm gefällt seine neue Arbeit in Wien. Er hat viele interessante Aufgaben. (weil)",
+        "answer": "Ihm gefällt seine neue Arbeit in Wien, weil er viele interessante Aufgaben hat."
+      },
+      {
+        "id": 130,
+        "question": "Martin geht abends ins Fitnessstudio. Er ist sehr müde. (obwohl)",
+        "answer": "Martin geht abends ins Fitnessstudio, obwohl er sehr müde ist."
+      },
+      {
+        "id": 131,
+        "question": "Sonntags fährt er oft mit den Kollegen in die Berge. Er möchte nicht alleine sein. (weil)",
+        "answer": "Sonntags fährt er oft mit den Kollegen in die Berge, weil er nicht alleine sein möchte."
+      }
+    ]
+  },
+  {
+    "title": "Trotzdem oder Deshalb",
+    "chapter": "Kapitel 4 - Übung 4",
+    "rule": "deshalb = Folge, trotzdem = Gegensatz",
+    "items": [
+      {
+        "id": 132,
+        "question": "Am Ende des Workshops bekommen alle Teilnehmer eine Liste mit Tipps, deshalb/trotzdem möchte ich hingehen.",
+        "answer": "Am Ende des Workshops bekommen alle Teilnehmer eine Liste mit Tipps zur gesunden Ernährung, deshalb möchte ich hingehen."
+      },
+      {
+        "id": 133,
+        "question": "Kristina ist berufstätig, deshalb/trotzdem isst sie oft zu Mittag in der Kantine.",
+        "answer": "Kristina ist berufstätig, deshalb isst sie oft zu Mittag in der Kantine."
+      },
+      {
+        "id": 134,
+        "question": "Das Essen im Restaurant kostet viel, deshalb/trotzdem gehen viele gerne hin.",
+        "answer": "Das Essen im Restaurant kostet viel, trotzdem gehen viele gerne hin."
+      },
+      {
+        "id": 135,
+        "question": "Das Thema Essen ist für mich sehr wichtig, deshalb/trotzdem koche ich jeden Tag für meine Familie.",
+        "answer": "Das Thema Essen ist für mich sehr wichtig, deshalb koche ich jeden Tag für meine Familie."
+      },
+      {
+        "id": 136,
+        "question": "Das Essen hat uns sehr gut geschmeckt, deshalb/trotzdem haben wir dem Kellner kein Trinkgeld gegeben.",
+        "answer": "Das Essen hat uns im Restaurant sehr gut geschmeckt, trotzdem haben wir dem Kellner kein Trinkgeld gegeben."
+      },
+      {
+        "id": 137,
+        "question": "Andreas isst zu viel Fleisch, deshalb/trotzdem geht er nicht zum Workshop.",
+        "answer": "Andreas isst zu viel Fleisch und möchte sein Essverhalten ändern, trotzdem geht er nicht zum Workshop über 'Gesundes Essen'."
+      },
+      {
+        "id": 138,
+        "question": "Ich habe viel Zeit zum Kochen, deshalb/trotzdem kaufe ich oft Fertiggerichte.",
+        "answer": "Ich habe viel Zeit zum Kochen, trotzdem kaufe ich oft Fertiggerichte im Supermarkt."
+      },
+      {
+        "id": 139,
+        "question": "Die meisten Deutschen halten Essen für sehr wichtig, deshalb/trotzdem kochen nicht alle zu Hause.",
+        "answer": "Die meisten Deutschen halten Essen für sehr wichtig, trotzdem kochen nicht alle jeden Tag zu Hause."
+      },
+      {
+        "id": 140,
+        "question": "Die Nachspeise war sehr lecker, deshalb/trotzdem habe ich meine Freundin um das Rezept gebeten.",
+        "answer": "Die Nachspeise war sehr lecker, deshalb habe ich meine Freundin um das Rezept gebeten."
+      },
+      {
+        "id": 141,
+        "question": "Frau Müller kann sehr gut kochen, deshalb/trotzdem bestellt sie oft Fertiggerichte.",
+        "answer": "Frau Müller kann sehr gut kochen, trotzdem bestellt sie oft Fertiggerichte."
+      }
+    ]
+  },
+  {
+    "title": "Futur mit werden",
+    "chapter": "Kapitel 5 - Übung 1",
+    "rule": "Futur I: werden + Infinitiv",
+    "items": [
+      {
+        "id": 142,
+        "question": "ich - Online-Übungen im Internet machen",
+        "answer": "Ab morgen werde ich Online-Übungen im Internet machen."
+      },
+      {
+        "id": 143,
+        "question": "Janet - mehr mit Freunden chatten",
+        "answer": "Ab morgen wird Janet mehr mit Freunden chatten."
+      },
+      {
+        "id": 144,
+        "question": "Mario - Wörter mit Beispielsätzen lernen",
+        "answer": "Ab morgen wird Mario Wörter mit Beispielsätzen lernen."
+      },
+      {
+        "id": 145,
+        "question": "Anna und Helge - Sprach-Apps nutzen",
+        "answer": "Ab morgen werden Anna und Helge Sprach-Apps nutzen."
+      },
+      {
+        "id": 146,
+        "question": "Joy und ich - Fehler korrigieren lassen",
+        "answer": "Ab morgen werden Joy und ich Fehler korrigieren lassen."
+      },
+      {
+        "id": 147,
+        "question": "wir - mit einem Lernpartner üben",
+        "answer": "Ab morgen werden wir mit einem Lernpartner üben."
+      },
+      {
+        "id": 148,
+        "question": "Martha und ich - Lerngruppe bilden",
+        "answer": "Ab morgen werden Martha und ich Lerngruppe bilden."
+      },
+      {
+        "id": 149,
+        "question": "ich - deutsche Videos ansehen",
+        "answer": "Ab morgen werde ich deutsche Videos ansehen."
+      },
+      {
+        "id": 150,
+        "question": "Janet und Joy - mit Karteikarten lernen",
+        "answer": "Ab morgen werden Janet und Joy mit Karteikarten lernen."
+      },
+      {
+        "id": 151,
+        "question": "ich - Filme mit deutschen Untertiteln ansehen",
+        "answer": "Ab morgen werde ich Filme mit deutschen Untertiteln ansehen."
+      },
+      {
+        "id": 152,
+        "question": "Meredith - die Grammatik-App nutzen",
+        "answer": "Ab morgen wird Meredith die Grammatik-App nutzen."
+      },
+      {
+        "id": 153,
+        "question": "Tim - deutsche Lieder hören",
+        "answer": "Ab morgen wird Tim deutsche Lieder hören."
+      }
+    ]
+  },
+  {
+    "title": "Seit/Seitdem und Bis",
+    "chapter": "Kapitel 5 - Übung 2",
+    "rule": "seit/seitdem = seitdem (Zeitpunkt), bis = bis (Ende)",
+    "items": [
+      {
+        "id": 154,
+        "question": "________ wir in Berlin wohnen, arbeite ich nur vormittags.",
+        "answer": "Seit/Seitdem wir in Berlin wohnen, arbeite ich nur vormittags."
+      },
+      {
+        "id": 155,
+        "question": "Deutsch macht den Studenten mehr Spaß, ________ sie Sprach-Apps nutzen.",
+        "answer": "Deutsch macht den Studenten mehr Spaß, seit/seitdem sie Sprach-Apps nutzen."
+      },
+      {
+        "id": 156,
+        "question": "________ ich deutsche Videos ansehe, mache ich nicht so viele Fehler.",
+        "answer": "Seit/Seitdem ich deutsche Videos ansehe, mache ich beim Hörverstehen nicht so viele Fehler."
+      },
+      {
+        "id": 157,
+        "question": "Es hat lange gedauert, ________ ich einen Lernpartner gefunden habe.",
+        "answer": "Es hat lange gedauert, bis ich einen Lernpartner gefunden habe."
+      },
+      {
+        "id": 158,
+        "question": "Ich kann bequem Geld abheben, ________ ich ein Konto und eine EC-Karte habe.",
+        "answer": "Ich kann bequem Geld am Geldautomaten abheben, seit/seitdem ich ein Konto und eine EC-Karte habe."
+      },
+      {
+        "id": 159,
+        "question": "________ ich auf das Fahrrad umgestiegen bin, komme ich pünktlich zur Arbeit.",
+        "answer": "Seit/Seitdem ich auf das Fahrrad umgestiegen bin, komme ich pünktlich zur Arbeit."
+      },
+      {
+        "id": 160,
+        "question": "Wir essen sehr gern Kastanienkuchen, ________ wir ihn in Ascona probiert haben.",
+        "answer": "Wir essen sehr gerne Kastanienkuchen, seit/seitdem wir ihn auf dem Kastanienfest in Ascona probiert haben."
+      },
+      {
+        "id": 161,
+        "question": "Ich spreche öfter Französisch, ________ ich mit Gerard befreundet bin.",
+        "answer": "Ich spreche öfter Französisch, seit/seitdem ich mit Gerard befreundet bin."
+      },
+      {
+        "id": 162,
+        "question": "Alle Touristen warten ungeduldig, ________ Anfang Mai das Baumblütenfest beginnt.",
+        "answer": "Alle Touristen warten ungeduldig, bis Anfang Mai das Baumblütenfest in der Obstanbauregion Werder beginnt."
+      },
+      {
+        "id": 163,
+        "question": "________ Tarik in Deutschland lebt, weiß er, dass man pünktlich kommen muss.",
+        "answer": "Seit/Seitdem Tarik in Deutschland lebt, weiß er, dass man zu Terminen pünktlich kommen muss."
+      }
+    ]
+  },
+  {
+    "title": "Konjunktiv II von müssen",
+    "chapter": "Kapitel 5 - Übung 3",
+    "rule": "Konjunktiv II von müssen: müsste/müsstet/müssten",
+    "items": [
+      {
+        "id": 164,
+        "question": "Ihr ________ sonntags früher ins Bett gehen, dann seid ihr montags nicht müde.",
+        "answer": "Ihr müsstet sonntags früher ins Bett gehen, dann seid ihr montags nicht müde."
+      },
+      {
+        "id": 165,
+        "question": "Eigentlich ________ ich über diese Probleme mit meinem Chef sprechen.",
+        "answer": "Eigentlich müsste ich über diese Probleme mit meinem Chef sprechen."
+      },
+      {
+        "id": 166,
+        "question": "Jonas, du ________ langsam für die Prüfung lernen!",
+        "answer": "Jonas, deine Deutschprüfung ist in einer Woche. Du müsstest langsam für die Prüfung lernen!"
+      },
+      {
+        "id": 167,
+        "question": "Seit wir nur halbtags arbeiten, ________ wir mehr Zeit für unsere Hobbys haben.",
+        "answer": "Seit wir beide nur halbtags arbeiten, müssten wir mehr Zeit für unsere Hobbys haben, aber es klappt irgendwie nicht."
+      },
+      {
+        "id": 168,
+        "question": "Meine Freundin meint, ich ________ etwas für meine Gesundheit tun.",
+        "answer": "Meine beste Freundin meint, ich müsste etwas für meine Gesundheit tun und meine Essgewohnheiten ändern."
+      },
+      {
+        "id": 169,
+        "question": "Der Kellner ________ ein wenig freundlicher sein, wenn er Trinkgeld bekommen will.",
+        "answer": "Der Kellner müsste ein wenig freundlicher sein, wenn er Trinkgeld bekommen will."
+      },
+      {
+        "id": 170,
+        "question": "Ich bin so müde, aber eigentlich ________ ich noch fünf Mails beantworten.",
+        "answer": "Ich bin so müde, aber eigentlich müsste ich noch fünf Mails beantworten."
+      },
+      {
+        "id": 171,
+        "question": "Ich ________ unser kaputtes Fahrrad zur Werkstatt bringen, aber ich habe keine Lust.",
+        "answer": "Ich müsste unser kaputtes Fahrrad zur Werkstatt bringen, aber ich habe keine Lust."
+      },
+      {
+        "id": 172,
+        "question": "Eigentlich ________ ich schon aufstehen, aber ich bin so unausgeschlafen.",
+        "answer": "Eigentlich müsste ich schon aufstehen, aber ich bin so unausgeschlafen."
+      },
+      {
+        "id": 173,
+        "question": "Mein Arbeitskollege meint, ich ________ zum Arzt gehen.",
+        "answer": "Mein Arbeitskollege meint, mit meiner Erkältung müsste ich zum Arzt gehen."
+      }
+    ]
+  },
+  {
+    "title": "Nicht nur ... sondern auch",
+    "chapter": "Kapitel 6 - Übung 2",
+    "rule": "nicht nur ... sondern auch = beides",
+    "items": [
+      {
+        "id": 174,
+        "question": "Er unterstützt im Krankenhaus die Ärzte und die Patienten.",
+        "answer": "Er unterstützt im Krankenhaus nicht nur die Ärzte, sondern auch die Patienten."
+      },
+      {
+        "id": 175,
+        "question": "Er kümmert sich um die Patienten und um den nötigen Papierkram.",
+        "answer": "Er kümmert sich nicht nur um die Patienten, sondern auch um den nötigen Papierkram."
+      },
+      {
+        "id": 176,
+        "question": "Er arbeitet am Wochenende und an Feiertagen.",
+        "answer": "Er arbeitet nicht nur am Wochenende, sondern auch an Feiertagen."
+      },
+      {
+        "id": 177,
+        "question": "Er arbeitet tagsüber und nachts.",
+        "answer": "Er arbeitet nicht nur tagsüber, sondern auch nachts."
+      },
+      {
+        "id": 178,
+        "question": "Er assistiert den Ärzten bei Untersuchungen und bei der Visite.",
+        "answer": "Er assistiert den Ärzten nicht nur bei Untersuchungen, sondern auch bei der Visite."
+      },
+      {
+        "id": 179,
+        "question": "Er muss körperlich fit und zuverlässig sein.",
+        "answer": "Er muss nicht nur körperlich fit, sondern auch zuverlässig sein."
+      },
+      {
+        "id": 180,
+        "question": "Er gibt den Patienten Spritzen und Medikamente.",
+        "answer": "Er gibt den Patienten nicht nur Spritzen, sondern auch Medikamente."
+      },
+      {
+        "id": 181,
+        "question": "Er gibt den Patienten Medizin und Schmerzmittel.",
+        "answer": "Er gibt den Patienten nicht nur Medizin, sondern auch Schmerzmittel."
+      },
+      {
+        "id": 182,
+        "question": "Er bringt den Patienten das Essen und die Getränke.",
+        "answer": "Er bringt den Patienten nicht nur das Essen, sondern auch die Getränke."
+      },
+      {
+        "id": 183,
+        "question": "Er misst den Blutdruck und das Fieber.",
+        "answer": "Er misst nicht nur den Blutdruck, sondern auch das Fieber."
+      }
+    ]
+  },
+  {
+    "title": "Fragewörter wo(r)... und Pronominaladverbien da(r)...",
+    "chapter": "Kapitel 8 - Übung 1",
+    "rule": "wo(r)+Präposition (Frage) vs. da(r)+Präposition (Antwort)",
+    "items": [
+      {
+        "id": 184,
+        "question": "________ denkst du gerade? (die Arbeit)",
+        "answer": "Woran denkst du gerade? An die Arbeit."
+      },
+      {
+        "id": 185,
+        "question": "________ denkst du gerade? (meine Freundin Annika)",
+        "answer": "An wen denkst du gerade? An meine Freundin Annika."
+      },
+      {
+        "id": 186,
+        "question": "________ träumst du? (Urlaub)",
+        "answer": "Wovon träumst du? Vom Urlaub."
+      },
+      {
+        "id": 187,
+        "question": "________ triffst du dich heute Abend? (meine Eltern)",
+        "answer": "Mit wem triffst du dich heute Abend? Mit meinen Eltern."
+      },
+      {
+        "id": 188,
+        "question": "________ hast du Lust? (ein Eis)",
+        "answer": "Worauf hast du Lust? Auf ein Eis."
+      },
+      {
+        "id": 189,
+        "question": "________ ärgerst du dich? (der Lärm hier)",
+        "answer": "Worüber ärgerst du dich? Über den Lärm hier."
+      },
+      {
+        "id": 190,
+        "question": "________ hast du dich gestern so aufgeregt? (meine Lehrerin)",
+        "answer": "Über wen hast du dich gestern so aufgeregt? Über meine Lehrerin."
+      },
+      {
+        "id": 191,
+        "question": "________ interessiert sich deine Tochter? (Videos und Mode)",
+        "answer": "Wofür interessiert sich deine Tochter? Für Videos und Mode."
+      },
+      {
+        "id": 192,
+        "question": "________ hat Eleni sich gestern getroffen? (ihr Chef, Herr Müller)",
+        "answer": "Mit wem hat Eleni sich gestern getroffen? Mit ihrem Chef, Herrn Müller."
+      },
+      {
+        "id": 193,
+        "question": "________ wartest du? (meine Freundin Elli)",
+        "answer": "Auf wen wartest du? Auf meine Freundin Elli."
+      }
+    ]
+  },
+  {
+    "title": "Konjunktiv II: Wünsche äußern",
+    "chapter": "Kapitel 9 - Übung 2",
+    "rule": "wäre/hätte/würde + Infinitiv für Wünsche",
+    "items": [
+      {
+        "id": 194,
+        "question": "Ich bin Bäcker von Beruf. Ich ________ gerne Pilot.",
+        "answer": "Ich bin Bäcker von Beruf. Ich wäre gerne Pilot."
+      },
+      {
+        "id": 195,
+        "question": "Wir haben eine kleine Wohnung. Wir ________ gerne ein Haus mit Garten.",
+        "answer": "Wir haben eine kleine Wohnung. Wir hätten gerne ein Haus mit einem Garten."
+      },
+      {
+        "id": 196,
+        "question": "Mein fünfjähriger Sohn ________ gerne ein Smartphone.",
+        "answer": "Mein fünfjähriger Sohn hätte gerne ein Smartphone."
+      },
+      {
+        "id": 197,
+        "question": "Ich muss noch bügeln, aber ich ________ lieber im Park spazieren gehen.",
+        "answer": "Ich muss noch bügeln, aber ich würde lieber im Park spazieren gehen."
+      },
+      {
+        "id": 198,
+        "question": "Es ist so heiß. Ich ________ gerne eine große Portion Eis essen.",
+        "answer": "Es ist so heiß. Ich würde gerne eine große Portion Eis essen."
+      },
+      {
+        "id": 199,
+        "question": "Ich ________ gerne Tennis spielen lernen.",
+        "answer": "Ich würde gerne Tennis spielen lernen."
+      },
+      {
+        "id": 200,
+        "question": "________ du gerne noch eine Fremdsprache lernen?",
+        "answer": "Würdest du gerne noch eine Fremdsprache lernen?"
+      },
+      {
+        "id": 201,
+        "question": "Karin ________ gerne schwimmen lernen, aber sie hat Angst vor dem Wasser.",
+        "answer": "Karin würde gerne schwimmen lernen, aber sie hat Angst vor dem Wasser."
+      },
+      {
+        "id": 202,
+        "question": "Die Arbeiter ________ gerne früher nach Hause gehen, aber sie müssen Überstunden machen.",
+        "answer": "Die Arbeiter würden gerne früher nach Hause gehen, aber sie müssen heute Überstunden machen."
+      },
+      {
+        "id": 203,
+        "question": "Unsere Kaffeepause ist kurz, aber alle ________ gerne eine lange Pause.",
+        "answer": "Unsere Kaffeepause im Deutschkurs ist kurz, aber alle hätten gerne eine lange Pause."
+      },
+      {
+        "id": 204,
+        "question": "Morgen fahre ich mit dem Zug nach Berlin. Am liebsten ________ ich fliegen.",
+        "answer": "Morgen fahre ich mit dem Zug nach Berlin. Am liebsten würde ich fliegen."
+      },
+      {
+        "id": 205,
+        "question": "Mama, wir wollen nicht mehr aufräumen, wir ________ gern Fußball spielen.",
+        "answer": "Mama, wir wollen nicht mehr aufräumen, wir würden gerne Fußball spielen."
+      }
+    ]
+  },
+  {
+    "title": "Stellung von Personalpronomen (Akkusativ + Dativ)",
+    "chapter": "Kapitel 10 - Übung 1",
+    "rule": "Akkusativ vor Dativ: ich gebe es dir / ich gebe ihn ihm",
+    "items": [
+      {
+        "id": 206,
+        "question": "Kannst du mir bitte den Weg erklären? → Natürlich kann ich ...",
+        "answer": "Natürlich kann ich ihn dir erklären!"
+      },
+      {
+        "id": 207,
+        "question": "Gibst du Mario den Ball nach dem Spiel? → Natürlich gebe ich ...",
+        "answer": "Natürlich gebe ich ihn ihm nach dem Spiel!"
+      },
+      {
+        "id": 208,
+        "question": "Zeigst du Maria deine Hausaufgaben? → Natürlich zeige ich ...",
+        "answer": "Natürlich zeige ich sie ihr!"
+      },
+      {
+        "id": 209,
+        "question": "Kannst du deiner Tischnachbarin das Spiel erklären? → Natürlich kann ich ...",
+        "answer": "Natürlich kann ich es ihr erklären!"
+      },
+      {
+        "id": 210,
+        "question": "Bringst du der Sekretärin die Anmeldung? → Natürlich bringe ich ...",
+        "answer": "Natürlich bringe ich sie ihr!"
+      },
+      {
+        "id": 211,
+        "question": "Gibst du den Kindern das Essen? → Natürlich gebe ich ...",
+        "answer": "Natürlich gebe ich es ihnen!"
+      },
+      {
+        "id": 212,
+        "question": "Holst du mir bitte eine Pizza? → Natürlich hole ...",
+        "answer": "Natürlich hole ich sie dir!"
+      },
+      {
+        "id": 213,
+        "question": "Schickst du deiner Tochter das Paket per Post? → Natürlich schicke ...",
+        "answer": "Natürlich schicke ich es ihr per Post!"
+      },
+      {
+        "id": 214,
+        "question": "Kannst du mir dieses Buch empfehlen? → Natürlich kann ich ...",
+        "answer": "Natürlich kann ich es dir empfehlen!"
+      },
+      {
+        "id": 215,
+        "question": "Könnt ihr uns bitte die Spielregeln erklären? → Natürlich können wir ...",
+        "answer": "Natürlich können wir sie euch erklären!"
+      },
+      {
+        "id": 216,
+        "question": "Verkaufst du den Tisch deiner Nachbarin? → Natürlich verkaufe ich ...",
+        "answer": "Natürlich verkaufe ich ihn ihr."
+      }
+    ]
+  },
+  {
+    "title": "Nebensatz mit während",
+    "chapter": "Kapitel 11 - Übung 1",
+    "rule": "während + Gleichzeitigkeit oder Gegensatz (Verb am Ende)",
+    "items": [
+      {
+        "id": 217,
+        "question": "Ich wohne in einer WG. Mein Bruder wohnt im eigenen Haus.",
+        "answer": "Während ich in einer WG wohne, wohnt mein Bruder im eigenen Haus."
+      },
+      {
+        "id": 218,
+        "question": "Ich frühstücke. Ich checke meine Mails und beantworte sie.",
+        "answer": "Während ich frühstücke, checke ich meine Mails und beantworte sie."
+      },
+      {
+        "id": 219,
+        "question": "Ich fahre mit der U-Bahn zur Arbeit. Ich telefoniere mit meinen Eltern.",
+        "answer": "Während ich mit der U-Bahn zur Arbeit fahre, telefoniere ich mit meinen Eltern."
+      },
+      {
+        "id": 220,
+        "question": "Ich trainiere in der Sporthalle. Meine Freundin hat einen Englischkurs.",
+        "answer": "Während ich in der Sporthalle trainiere, hat meine Freundin einen Englischkurs."
+      },
+      {
+        "id": 221,
+        "question": "Ich löse gern Sudoku. Mein Mann spielt am liebsten Schach.",
+        "answer": "Während ich gern Sudoku löse, spielt mein Mann am liebsten Schach."
+      },
+      {
+        "id": 222,
+        "question": "Ich fahre gerne mit dem Zug in den Urlaub. Mein Freund fliegt lieber.",
+        "answer": "Während ich gerne mit dem Zug in den Urlaub fahre, fliegt mein Freund lieber."
+      },
+      {
+        "id": 223,
+        "question": "Ich dusche morgens. Meine Kaffeemaschine läuft.",
+        "answer": "Während ich morgens dusche, läuft meine Kaffeemaschine."
+      },
+      {
+        "id": 224,
+        "question": "Ich liege entspannt am Strand. Meine Kinder spielen Beachvolleyball mit Papa.",
+        "answer": "Während ich entspannt am Strand liege und die Sonne genieße, spielen meine Kinder Beachvolleyball mit Papa."
+      },
+      {
+        "id": 225,
+        "question": "Ich mache eine Stadtrundfahrt. Meine Freundin sieht sich Sehenswürdigkeiten zu Fuß an.",
+        "answer": "Während ich eine Stadtrundfahrt mache, sieht sich meine Freundin Sehenswürdigkeiten zu Fuß an."
+      },
+      {
+        "id": 226,
+        "question": "Ich ziehe mich an. Ich höre Nachrichten.",
+        "answer": "Während ich mich anziehe, höre ich Nachrichten."
+      }
+    ]
+  },
+  {
+    "title": "Plusquamperfekt",
+    "chapter": "Kapitel 12 - Übung 1",
+    "rule": "Plusquamperfekt: hatte/war + Partizip II (Vorzeitigkeit)",
+    "items": [
+      {
+        "id": 227,
+        "question": "Als ich in der Kita ankam, ... meine Frau schon unsere Tochter ... (abholen)",
+        "answer": "Als ich in der Kita ankam, hatte meine Frau schon unsere Tochter abgeholt."
+      },
+      {
+        "id": 228,
+        "question": "Tobias war glücklich, da man ihm einen Praktikumsplatz ... (anbieten)",
+        "answer": "Tobias war glücklich, da man ihm einen Praktikumsplatz angeboten hatte."
+      },
+      {
+        "id": 229,
+        "question": "Als Herr Müller bei uns anfing, ... er schon viele Jahre in einem Restaurant ... (arbeiten)",
+        "answer": "Als Herr Müller bei uns anfing, hatte er schon viele Jahre in einem Restaurant gearbeitet."
+      },
+      {
+        "id": 230,
+        "question": "Als wir im Flughafen ankamen, ... die Flughafentour schon ... (beginnen)",
+        "answer": "Als wir im Flughafen ankamen, hatte die Flughafentour schon begonnen."
+      },
+      {
+        "id": 231,
+        "question": "Als wir aus dem Zug ausstiegen, ... auf uns ein Taxifahrer ... (warten)",
+        "answer": "Als wir aus dem Zug ausstiegen, hatte auf uns ein Taxifahrer gewartet."
+      },
+      {
+        "id": 232,
+        "question": "Als ich zahlen wollte, ... mein Freund schon die Rechnung ... (bezahlen)",
+        "answer": "Als ich zahlen wollte, hatte mein Freund schon die Rechnung bezahlt."
+      },
+      {
+        "id": 233,
+        "question": "Ich durfte nicht ins Schwimmbad, weil ich mich ... ... (erkälten)",
+        "answer": "Ich durfte mit Freunden nicht ins Schwimmbad, weil ich mich erkältet hatte."
+      },
+      {
+        "id": 234,
+        "question": "Als ich im Restaurant ankam, ... die Gäste schon mit dem Essen ... (anfangen)",
+        "answer": "Als ich im Restaurant ankam, hatten die eingeladenen Gäste schon mit dem Essen angefangen."
+      },
+      {
+        "id": 235,
+        "question": "Abends musste ich zur Tankstelle, weil ich davor Zigaretten ... ... (vergessen)",
+        "answer": "Abends musste ich noch zur Tankstelle, weil ich davor im Supermarkt Zigaretten vergessen hatte."
+      },
+      {
+        "id": 236,
+        "question": "Als unser Zug in Mannheim ankam, ... der Zug nach Paris bereits ... (abfahren)",
+        "answer": "Als unser Zug in Mannheim ankam, war der Zug nach Paris bereits abgefahren."
+      }
+    ]
+  },
+  {
+    "title": "Infinitiv als Nomen",
+    "chapter": "Kapitel 12 - Übung 2",
+    "rule": "Infinitiv mit großem Anfangsbuchstaben als Nomen (das Lesen, das Baden)",
+    "items": [
+      {
+        "id": 237,
+        "question": "Tim, sei vorsichtig beim ________ im See! (baden)",
+        "answer": "Tim, sei vorsichtig beim Baden im See!"
+      },
+      {
+        "id": 238,
+        "question": "Zum ________ brauche ich eine neue Lesebrille. (lesen)",
+        "answer": "Zum Lesen brauche ich eine neue Lesebrille."
+      },
+      {
+        "id": 239,
+        "question": "Hast du gehört, dass in Paris das ________ in einigen Parks verboten ist? (rauchen)",
+        "answer": "Hast du gehört, dass in Paris das Rauchen in einigen Parks verboten ist?"
+      },
+      {
+        "id": 240,
+        "question": "Nach dem ________ höre ich zuerst Nachrichten. (aufstehen)",
+        "answer": "Nach dem Aufstehen höre ich zuerst Nachrichten."
+      },
+      {
+        "id": 241,
+        "question": "Das ________ nach der Rücken-OP fällt den Patienten noch schwer. (laufen)",
+        "answer": "Das Laufen nach der Rücken-OP fällt den Patienten noch schwer."
+      },
+      {
+        "id": 242,
+        "question": "Das ________ auf dem Waldparkplatz ist verboten. (spielen)",
+        "answer": "Das Spielen auf dem Waldparkplatz ist verboten."
+      },
+      {
+        "id": 243,
+        "question": "Zum ________ brauche ich neue Wanderschuhe. (wandern)",
+        "answer": "Zum Wandern brauche ich neue Wanderschuhe."
+      },
+      {
+        "id": 244,
+        "question": "Zum ________ gibt es heute billige elektrische Zahnbürsten. (Zähne putzen)",
+        "answer": "Zum Zähneputzen gibt es heute billige elektrische Zahnbürsten."
+      },
+      {
+        "id": 245,
+        "question": "Nach dem ________ frühstückt Peter und fährt dann zur Firma. (duschen)",
+        "answer": "Nach dem Duschen frühstückt Peter und fährt dann zur Firma."
+      },
+      {
+        "id": 246,
+        "question": "Beim ________ sollte man nicht telefonieren. (fahren)",
+        "answer": "Beim Fahren sollte man nicht telefonieren."
+      },
+      {
+        "id": 247,
+        "question": "Das ________ im Regen macht keinen Spaß. (joggen)",
+        "answer": "Das Joggen im Regen macht keinen Spaß."
+      },
+      {
+        "id": 248,
+        "question": "Zum ________ brauchen wir frisches Gemüse. (kochen)",
+        "answer": "Zum Kochen brauchen wir frisches Gemüse."
+      },
+      {
+        "id": 249,
+        "question": "Nach dem ________ geht es ihm viel besser. (sich ausruhen)",
+        "answer": "Nach dem Sichausruhen geht es ihm viel besser."
+      },
+      {
+        "id": 250,
+        "question": "Das ________ am Computer ist anstrengend für die Augen. (arbeiten)",
+        "answer": "Das Arbeiten am Computer ist anstrengend für die Augen."
+      },
+      {
+        "id": 251,
+        "question": "Vor dem ________ wasche ich immer die Hände. (essen)",
+        "answer": "Vor dem Essen wasche ich immer die Hände."
+      },
+      {
+        "id": 252,
+        "question": "Zum ________ fährt sie jeden Sommer nach Österreich. (wandern)",
+        "answer": "Zum Wandern fährt sie jeden Sommer nach Österreich."
+      },
+      {
+        "id": 253,
+        "question": "Das ________ im Büro den ganzen Tag ist ungesund. (sitzen)",
+        "answer": "Das Sitzen im Büro den ganzen Tag ist ungesund."
+      },
+      {
+        "id": 254,
+        "question": "Beim ________ vergisst er oft die Zeit. (lesen)",
+        "answer": "Beim Lesen vergisst er oft die Zeit."
+      },
+      {
+        "id": 255,
+        "question": "Nach dem ________ fühlt sie sich immer erfrischt. (schwimmen)",
+        "answer": "Nach dem Schwimmen fühlt sie sich immer erfrischt."
+      }
+    ]
+  }
+]
